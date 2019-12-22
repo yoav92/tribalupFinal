@@ -1,0 +1,2 @@
+# tribalupFinal
+project final study
